@@ -2,24 +2,6 @@
     {
       "id": "test_1",
       "scimId": "0abfa8af-1251-4f9e-bc00-710f6af0e14d",
-      "identityId": "user_test_1",
-      "subType": "user",
-      "externalId": "test_1",
-      "tenantId": "c26b6538-8c78-4c1a-9bd0-62c6b600f2ef",
-      "userName": "test_1@gmail.com",
-      "name": {
-        "familyName": "test",
-        "givenName": "1"
-      },
-      "displayName": "test 1",
-      "emails": [
-        {
-          "value": "test_1@gmail.com",
-          "type": "work",
-          "primary": true
-        }
-      ],
-      "active": true
     },
     {
       "id": "test_2",
